@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "commonui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MalyshevMaksim/CommonUI",
+      "state" : {
+        "revision" : "8d1e1f262c664c4f53f1d17d603dc69bd15754fc",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "c3852816c622ad35a03ed39c187c1644ece2382b",
+        "version" : "4.1.3"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
