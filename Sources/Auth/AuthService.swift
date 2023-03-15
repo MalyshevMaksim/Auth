@@ -1,4 +1,4 @@
 public protocol AuthService {
-    func sendSmsConfirmationCode(to phone: String)
-    func isPhoneNumberValid(_ phone: String) -> Bool
+    func sendSmsConfirmationCode(to phoneNumber: String)
+    func isPhoneNumberValid(_ phoneNumber: String) -> Bool
 }
